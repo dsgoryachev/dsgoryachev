@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @dsgoryachev
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m Dmitry
+
+- 💞️ I’m looking to collaborate on projects where I can be useful.
+
+Skills: C# / Telegram API / Autodesk Revit API
 
 <!---
 dsgoryachev/dsgoryachev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
