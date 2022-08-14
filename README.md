@@ -1,4 +1,4 @@
-###### 👋 Hi, I’m Dmitry
+## 👋 Hi, I’m Dmitry
 
 - 💞️ I’m looking forward to collaborating on projects where I can be useful.
 
