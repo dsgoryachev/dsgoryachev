@@ -2,7 +2,7 @@
 
 - 💞️ I’m looking to collaborate on projects where I can be useful.
 
-Skills: C# / Telegram API / Autodesk Revit API
+Skills: C# / WPF / API (Telegram, Autodesk Revit)
 
 <!---
 dsgoryachev/dsgoryachev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
