@@ -1,8 +1,8 @@
-👋 Hi, I’m Dmitry
+###### 👋 Hi, I’m Dmitry
 
-- 💞️ I’m looking to collaborate on projects where I can be useful.
+- 💞️ I’m looking forward to collaborating on projects where I can be useful.
 
-Skills: C# / WPF / API (Telegram, Autodesk Revit)
+**Skills:** C# / WPF / API (Telegram, Autodesk Revit)
 
 <!---
 dsgoryachev/dsgoryachev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
