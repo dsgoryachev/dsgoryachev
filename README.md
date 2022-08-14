@@ -1,6 +1,6 @@
-## 👋 Hi, I’m Dmitry
+👋 **Hi, I’m Dmitry Goryachev**
 
-- 💞️ I’m looking forward to collaborating on projects where I can be useful.
+I look forward to collaborating on projects where I can be useful.
 
 **Skills:** C# / WPF / API (Telegram, Autodesk Revit)
 
