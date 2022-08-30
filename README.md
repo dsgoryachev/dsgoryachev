@@ -1,4 +1,4 @@
-👋 **Hi, I’m Dmitry Goryachev**
+👋 **Hi, I’m Dmitry**
 
 I look forward to collaborating on projects where I can be useful.
 
