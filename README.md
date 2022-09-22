@@ -5,9 +5,10 @@ I look forward to collaborating on projects where I can be useful.
 🧰 **Skills and API:** 
 
 ![C#_logo_40](https://user-images.githubusercontent.com/109218841/190912166-a49086a1-58b7-4974-aa53-857b075c2723.png)  ![WPF_logo_40](https://user-images.githubusercontent.com/109218841/190912277-497a05cd-f3ae-4580-9490-4893ca35831a.png)  ![Telegram_logo_40](https://user-images.githubusercontent.com/109218841/190913031-8166ece7-f0b7-46c1-9f2e-efe1db68dd50.png)  ![Revit_logo_40](https://user-images.githubusercontent.com/109218841/190912692-2be9c1c0-eb59-4b9e-8f67-d25df57002da.png)
+![VS_40](https://user-images.githubusercontent.com/109218841/191727800-fcd26cf6-61e1-4621-9798-42e17b59c77a.png)
 
 
-C# / WPF / API (Telegram, Autodesk Revit)
+C# / WPF / API (Telegram, Autodesk Revit) / VS
 
 **Contacts:**
 
