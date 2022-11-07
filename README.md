@@ -1,6 +1,6 @@
 👋 **Hi, I’m Dmitry**
 
-I look forward to collaborating on projects where I can be useful.
+I am looking forward to collaborating on projects where I can be useful.
 
 🧰 **Skills and API:** 
 
