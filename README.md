@@ -10,10 +10,7 @@ I am looking forward to collaborating on projects where I can be useful.
 
 C# / WPF / API (Telegram, Autodesk Revit) / VS
 
-**Contacts:**
 
-
-My Telegram: [@dsgor](https://t.me/dsgor)
 
 **Latest projects:**
 
@@ -31,6 +28,10 @@ My Telegram: [@dsgor](https://t.me/dsgor)
 
 [Beta-BIM](http://beta-bim.com/) - Computer-aided design system in a BIM-model based on Autodesk Revit
 
+**Contacts:**
+
+
+My Telegram: [@dsgor](https://t.me/dsgor)
 <!---
 dsgoryachev/dsgoryachev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
