@@ -16,17 +16,17 @@ C# / WPF / API (Telegram, Autodesk Revit) / VS
 
 *Telegram*
 
-[@RevitProblemsBot](https://t.me/RevitProblemsBot) - Telegram bot for combining and solving problems of engineers with Revit
+  - [@RevitProblemsBot](https://t.me/RevitProblemsBot) - Telegram bot for combining and solving problems of engineers with Revit
 
-[@MarkupTelegramBot](https://t.me/MarkupTelegramBot) - Telegram bot that responds with all types of telegram markup
+  - [@MarkupTelegramBot](https://t.me/MarkupTelegramBot) - Telegram bot that responds with all types of telegram markup
 
-[@EasyTranslatorBot](https://t.me/EasyTranslatorBot) - Telegram bot for the text translation from English to Russian
+  - [@EasyTranslatorBot](https://t.me/EasyTranslatorBot) - Telegram bot for the text translation from English to Russian
 
-[@CableTrayBot](https://t.me/CableTrayBot) - Telegram Bot for cable tray calculation
+  - [@CableTrayBot](https://t.me/CableTrayBot) - Telegram Bot for cable tray calculation
 
 *Autodesk Revit*
 
-[Beta-BIM](http://beta-bim.com/) - Computer-aided design system in a BIM-model based on Autodesk Revit
+ - [Beta-BIM](http://beta-bim.com/) - Computer-aided design system in a BIM-model based on Autodesk Revit
 
 **Contacts:**
 
