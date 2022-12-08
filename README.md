@@ -21,7 +21,7 @@ My Telegram: [@dsgor](https://t.me/dsgor)
 
 [@RevitProblemsBot](https://t.me/RevitProblemsBot) - Telegram bot for combining and solving problems of engineers with Revit
 
-[@TelegramMarkupBot](https://t.me/TelegramMarkupBot) - Telegram bot that responds with all types of telegram markup
+[@MarkupTelegramBot](https://t.me/MarkupTelegramBot) - Telegram bot that responds with all types of telegram markup
 
 [@EasyTranslatorBot](https://t.me/EasyTranslatorBot) - Telegram bot for the text translation from English to Russian
 
