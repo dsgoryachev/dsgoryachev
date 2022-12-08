@@ -12,7 +12,7 @@ C# / WPF / API (Telegram, Autodesk Revit) / VS
 
 
 
-**Latest projects:**
+**My latest projects:**
 
 *Telegram*
 
@@ -28,7 +28,7 @@ C# / WPF / API (Telegram, Autodesk Revit) / VS
 
  - [Beta-BIM](http://beta-bim.com/) - Computer-aided design system in a BIM-model based on Autodesk Revit
 
-**Contacts:**
+**My contacts:**
 
 
 My Telegram: [@dsgor](https://t.me/dsgor)
