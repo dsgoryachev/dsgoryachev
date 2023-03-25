@@ -20,7 +20,7 @@ C# / WPF / API (Telegram, Autodesk Revit) / VS
 
   - [@MarkupTelegramBot](https://t.me/MarkupTelegramBot) - Telegram bot responds to all types of telegram markup
 
-  - [@EasyTranslatorBot](https://t.me/EasyTranslatorBot) - Telegram bot for the text translation from English to Russian
+  - [@EasyTranslatorBot](https://t.me/EasyTranslatorBot) - Telegram bot for the text translating from English to Russian and back
 
   - [@CableTrayBot](https://t.me/CableTrayBot) - Telegram Bot for cable tray calculation
 
