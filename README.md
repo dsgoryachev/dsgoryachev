@@ -1,6 +1,6 @@
 👋 **Hi, I’m Dmitry**
 
-I am looking forward to collaborating on projects where I can be useful.
+I'm working with Telegram bots and construction technology APIs.
 
 🧰 **Skills and API:** 
 
