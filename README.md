@@ -1,6 +1,6 @@
 👋 **Hi, I’m Dmitry**
 
-I'm a self-taught Software Developer, working on bots for Telegram and BIM platform APIs.
+I'm a Software Developer, working on BIM platform and Telegram APIs.
 
 🧰 **Skills and API:** 
 
