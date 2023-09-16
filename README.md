@@ -18,7 +18,7 @@ C# / WPF / API (Telegram, Autodesk Revit) / VS
 
   - [@BETA Revit A.I.](https://t.me/RevitProblemsAI_bot) - AI Telegram bot for solving problems with Autodesk Revit
   
-  - [@RevitProblemsBot](https://t.me/RevitProblemsBot) - Telegram bot for combining and solving problems of engineers with Revit
+  - [@RevitProblemsBot](https://t.me/RevitProblemsBot) - Custom CRM system via Telegram for construction company's BIM department
 
   - [@MarkupTelegramBot](https://t.me/MarkupTelegramBot) - Telegram bot responds to all types of telegram markup
 
